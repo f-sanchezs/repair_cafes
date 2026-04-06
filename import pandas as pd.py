@@ -19,3 +19,5 @@ repair_data = repair_raw[[
     'Reparability of product  (1 = difficult, 10 = easy)',
     'Did you use repair information?'
     ]]
+
+#rename
