@@ -3,7 +3,7 @@ import pandas as pd
 #Data downloaded from https://dashboard.repairmonitor.org/?language=en
 repair_raw = pd.read_excel("repairs-en.xlsx")
 
-
+#select rows
 repair_data = repair_raw[[
     'Repair date',
     'Repair Cafe number',
